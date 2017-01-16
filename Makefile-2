@@ -1,0 +1,2 @@
+all:
+	gcc laba2_OS.c	-o	laba2_OS
