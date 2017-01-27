@@ -1,0 +1,2 @@
+all:
+	gcc -pthread -o laba7_OS laba7_OS.c
